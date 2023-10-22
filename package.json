@@ -1,0 +1,16 @@
+{
+  "name": "/weather-api-server",
+  "version": "1.0.0",
+  "description": "weather api server side code",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "build": "npm i"
+  },
+  "author": "THE BOSS9345",
+  "license": "Mit",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
